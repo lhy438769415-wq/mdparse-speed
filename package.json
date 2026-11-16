@@ -1,1 +1,9 @@
-{"type": "module"}
+{
+  "name": "mdparse-speed",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Dependency-free Markdown rendering for markdown-render-speed-02",
+  "license": "MIT",
+  "scripts": { "start": "node main.ts" }
+}
